@@ -13,14 +13,14 @@ Each section gathers essential information—ranging from personal details to su
 
 ## 🎯 Key Features
 
-- **🧍 Multi-Step Application Flow**  
+- **🧍 Dynamic Job Management**  
+  HR teams can easily create, publish, and manage job postings based on specific roles, requirements, and preferences.
+
+- **🧾 Guided Multi-Step Application Flow**  
   Includes sections for Personal, Family, Education, Experience, Questions, and Document uploads.
 
 - **📸 Photo & Document Upload**  
-  Applicants can upload a 3x4 photo and required documents (PDF, DOC, DOCX, max 1MB each).
-
-- **💬 Dynamic Question System**  
-  Supports HR-defined questions with optional explanations and required/optional toggles.
+  Applicants can upload a photo and required documents (PDF, PNG, JPG, DOCX, max 1MB each).
 
 - **📄 PDF Report Generation**  
   Automatically generates formatted PDFs of each applicant’s submission for HR review.
